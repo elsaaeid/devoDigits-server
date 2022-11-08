@@ -1,4 +1,4 @@
-export const PORT = process.env.PORT || 8800
+export const PORT = process.env.PORT || 5519
 
 export const DB_HOST = process.env.DB_HOST || 'containers-us-west-73.railway.app'
 export const DB_USER = process.env.DB_USER || 'root'
